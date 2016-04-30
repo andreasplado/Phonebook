@@ -1,0 +1,102 @@
+C:\Users\Andreas\Desktop\VR2_Klientrakendus\VR2_Klientrakendus\bin\Debug\VR2_Klientrakendus.exe.config
+C:\Users\Andreas\Desktop\VR2_Klientrakendus\VR2_Klientrakendus\bin\Debug\VR2_Klientrakendus.exe
+C:\Users\Andreas\Desktop\VR2_Klientrakendus\VR2_Klientrakendus\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Andreas\Desktop\VR2_Klientrakendus\VR2_Klientrakendus\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Andreas\Desktop\VR2_Klientrakendus\VR2_Klientrakendus\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Andreas\Desktop\VR2_Klientrakendus\VR2_Klientrakendus\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Andreas\Desktop\VR2_Klientrakendus\VR2_Klientrakendus\obj\Debug\AddContactWindow.g.cs
+C:\Users\Andreas\Desktop\VR2_Klientrakendus\VR2_Klientrakendus\obj\Debug\AddGroupWindow.g.cs
+C:\Users\Andreas\Desktop\VR2_Klientrakendus\VR2_Klientrakendus\obj\Debug\LoginWindow.g.cs
+C:\Users\Andreas\Desktop\VR2_Klientrakendus\VR2_Klientrakendus\obj\Debug\MainWindow.g.cs
+C:\Users\Andreas\Desktop\VR2_Klientrakendus\VR2_Klientrakendus\obj\Debug\SignUpWindow.g.cs
+C:\Users\Andreas\Desktop\VR2_Klientrakendus\VR2_Klientrakendus\obj\Debug\UserProfile.g.cs
+C:\Users\Andreas\Desktop\VR2_Klientrakendus\VR2_Klientrakendus\obj\Debug\App.g.cs
+C:\Users\Andreas\Desktop\VR2_Klientrakendus\VR2_Klientrakendus\obj\Debug\VR2_Klientrakendus_MarkupCompile.cache
+C:\Users\Andreas\Desktop\VR2_Klientrakendus\VR2_Klientrakendus\obj\Debug\VR2_Klientrakendus_MarkupCompile.lref
+C:\Users\Andreas\Desktop\VR2_Klientrakendus\VR2_Klientrakendus\obj\Debug\AddContactWindow.baml
+C:\Users\Andreas\Desktop\VR2_Klientrakendus\VR2_Klientrakendus\obj\Debug\AddGroupWindow.baml
+C:\Users\Andreas\Desktop\VR2_Klientrakendus\VR2_Klientrakendus\obj\Debug\LoginWindow.baml
+C:\Users\Andreas\Desktop\VR2_Klientrakendus\VR2_Klientrakendus\obj\Debug\MainWindow.baml
+C:\Users\Andreas\Desktop\VR2_Klientrakendus\VR2_Klientrakendus\obj\Debug\SignUpWindow.baml
+C:\Users\Andreas\Desktop\VR2_Klientrakendus\VR2_Klientrakendus\obj\Debug\UserProfile.baml
+C:\Users\Andreas\Desktop\VR2_Klientrakendus\VR2_Klientrakendus\obj\Debug\VR2_Klientrakendus.g.resources
+C:\Users\Andreas\Desktop\VR2_Klientrakendus\VR2_Klientrakendus\obj\Debug\VR2_Klientrakendus.Properties.Resources.resources
+C:\Users\Andreas\Desktop\VR2_Klientrakendus\VR2_Klientrakendus\obj\Debug\VR2_Klientrakendus.csproj.GenerateResource.Cache
+C:\Users\Andreas\Desktop\VR2_Klientrakendus\VR2_Klientrakendus\obj\Debug\VR2_Klientrakendus.exe
+C:\Users\Andreas\Desktop\VR2_Klientrakendus\VR2_Klientrakendus\obj\Debug\VR2_Klientrakendus.pdb
+C:\Users\Andreas\Desktop\VR2_Klientrakendus\VR2_Klientrakendus\bin\Debug\VR2_Klientrakendus.pdb
+C:\Users\Andreas\Desktop\VR2_Klientrakendus\VR2_Klientrakendus\bin\Debug\Xceed.Wpf.Themes.dll
+C:\Users\Andreas\Desktop\VR2_Klientrakendus\VR2_Klientrakendus\bin\Debug\Xceed.Wpf.Themes.Metro.dll
+C:\Users\Andreas\Desktop\VR2_Klientrakendus\VR2_Klientrakendus\bin\Debug\Xceed.Wpf.Themes.Office2007.dll
+C:\Users\Andreas\Desktop\VR2_Klientrakendus\VR2_Klientrakendus\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\Andreas\Desktop\VR2_Klientrakendus\VR2_Klientrakendus\bin\Debug\Xceed.Wpf.Toolkit.Themes.Metro.dll
+C:\Users\Andreas\Desktop\VR2_Klientrakendus\VR2_Klientrakendus\bin\Debug\Xceed.Wpf.Toolkit.Themes.Office2007.dll
+C:\Users\Andreas\Desktop\VR2_Klientrakendus\VR2_Klientrakendus\obj\Debug\VR2_Klientrakendus.csprojResolveAssemblyReference.cache
+C:\Users\Andreas\Desktop\VR2_Klientrakendus – koopia\VR2_Klientrakendus\bin\Debug\VR2_Klientrakendus.exe.config
+C:\Users\Andreas\Desktop\VR2_Klientrakendus – koopia\VR2_Klientrakendus\obj\Debug\VR2_Klientrakendus.exe
+C:\Users\Andreas\Desktop\VR2_Klientrakendus – koopia\VR2_Klientrakendus\obj\Debug\VR2_Klientrakendus.pdb
+C:\Users\Andreas\Desktop\VR2_Klientrakendus – koopia\VR2_Klientrakendus\bin\Debug\VR2_Klientrakendus.exe
+C:\Users\Andreas\Desktop\VR2_Klientrakendus – koopia\VR2_Klientrakendus\bin\Debug\VR2_Klientrakendus.pdb
+C:\Users\Andreas\Desktop\VR2_Klientrakendus – koopia\VR2_Klientrakendus\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Andreas\Desktop\VR2_Klientrakendus – koopia\VR2_Klientrakendus\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Andreas\Desktop\VR2_Klientrakendus – koopia\VR2_Klientrakendus\bin\Debug\Xceed.Wpf.Themes.dll
+C:\Users\Andreas\Desktop\VR2_Klientrakendus – koopia\VR2_Klientrakendus\bin\Debug\Xceed.Wpf.Themes.Metro.dll
+C:\Users\Andreas\Desktop\VR2_Klientrakendus – koopia\VR2_Klientrakendus\bin\Debug\Xceed.Wpf.Themes.Office2007.dll
+C:\Users\Andreas\Desktop\VR2_Klientrakendus – koopia\VR2_Klientrakendus\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\Andreas\Desktop\VR2_Klientrakendus – koopia\VR2_Klientrakendus\bin\Debug\Xceed.Wpf.Toolkit.Themes.Metro.dll
+C:\Users\Andreas\Desktop\VR2_Klientrakendus – koopia\VR2_Klientrakendus\bin\Debug\Xceed.Wpf.Toolkit.Themes.Office2007.dll
+C:\Users\Andreas\Desktop\VR2_Klientrakendus – koopia\VR2_Klientrakendus\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Andreas\Desktop\VR2_Klientrakendus – koopia\VR2_Klientrakendus\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Andreas\Desktop\VR2_Klientrakendus – koopia\VR2_Klientrakendus\obj\Debug\AddContactWindow.g.cs
+C:\Users\Andreas\Desktop\VR2_Klientrakendus – koopia\VR2_Klientrakendus\obj\Debug\AddGroupWindow.g.cs
+C:\Users\Andreas\Desktop\VR2_Klientrakendus – koopia\VR2_Klientrakendus\obj\Debug\LoginWindow.g.cs
+C:\Users\Andreas\Desktop\VR2_Klientrakendus – koopia\VR2_Klientrakendus\obj\Debug\SignUpWindow.g.cs
+C:\Users\Andreas\Desktop\VR2_Klientrakendus – koopia\VR2_Klientrakendus\obj\Debug\UserProfile.g.cs
+C:\Users\Andreas\Desktop\VR2_Klientrakendus – koopia\VR2_Klientrakendus\obj\Debug\App.g.cs
+C:\Users\Andreas\Desktop\VR2_Klientrakendus – koopia\VR2_Klientrakendus\obj\Debug\VR2_Klientrakendus_MarkupCompile.cache
+C:\Users\Andreas\Desktop\VR2_Klientrakendus – koopia\VR2_Klientrakendus\obj\Debug\VR2_Klientrakendus_MarkupCompile.lref
+C:\Users\Andreas\Desktop\VR2_Klientrakendus – koopia\VR2_Klientrakendus\obj\Debug\AddContactWindow.baml
+C:\Users\Andreas\Desktop\VR2_Klientrakendus – koopia\VR2_Klientrakendus\obj\Debug\AddGroupWindow.baml
+C:\Users\Andreas\Desktop\VR2_Klientrakendus – koopia\VR2_Klientrakendus\obj\Debug\LoginWindow.baml
+C:\Users\Andreas\Desktop\VR2_Klientrakendus – koopia\VR2_Klientrakendus\obj\Debug\SignUpWindow.baml
+C:\Users\Andreas\Desktop\VR2_Klientrakendus – koopia\VR2_Klientrakendus\obj\Debug\UserProfile.baml
+C:\Users\Andreas\Desktop\VR2_Klientrakendus – koopia\VR2_Klientrakendus\obj\Debug\VR2_Klientrakendus.g.resources
+C:\Users\Andreas\Desktop\VR2_Klientrakendus – koopia\VR2_Klientrakendus\obj\Debug\VR2_Klientrakendus.Properties.Resources.resources
+C:\Users\Andreas\Desktop\VR2_Klientrakendus – koopia\VR2_Klientrakendus\obj\Debug\VR2_Klientrakendus.csproj.GenerateResource.Cache
+C:\Users\Andreas\Desktop\VR2_Klientrakendus – koopia\VR2_Klientrakendus\obj\Debug\MainWindow.g.cs
+C:\Users\Andreas\Desktop\VR2_Klientrakendus – koopia\VR2_Klientrakendus\obj\Debug\MainWindow.baml
+C:\Users\Andreas\Desktop\VR2_Klientrakendus – koopia\VR2_Klientrakendus\obj\Debug\VR2_Klientrakendus.csprojResolveAssemblyReference.cache
+C:\Users\Andreas\Desktop\VR2\VR2_Klientrakendus\VR2_Klientrakendus\bin\Debug\VR2_Klientrakendus.exe.config
+C:\Users\Andreas\Desktop\VR2\VR2_Klientrakendus\VR2_Klientrakendus\obj\Debug\VR2_Klientrakendus.exe
+C:\Users\Andreas\Desktop\VR2\VR2_Klientrakendus\VR2_Klientrakendus\obj\Debug\VR2_Klientrakendus.pdb
+C:\Users\Andreas\Desktop\VR2\VR2_Klientrakendus\VR2_Klientrakendus\bin\Debug\VR2_Klientrakendus.exe
+C:\Users\Andreas\Desktop\VR2\VR2_Klientrakendus\VR2_Klientrakendus\bin\Debug\VR2_Klientrakendus.pdb
+C:\Users\Andreas\Desktop\VR2\VR2_Klientrakendus\VR2_Klientrakendus\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Andreas\Desktop\VR2\VR2_Klientrakendus\VR2_Klientrakendus\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Andreas\Desktop\VR2\VR2_Klientrakendus\VR2_Klientrakendus\bin\Debug\Xceed.Wpf.Themes.dll
+C:\Users\Andreas\Desktop\VR2\VR2_Klientrakendus\VR2_Klientrakendus\bin\Debug\Xceed.Wpf.Themes.Metro.dll
+C:\Users\Andreas\Desktop\VR2\VR2_Klientrakendus\VR2_Klientrakendus\bin\Debug\Xceed.Wpf.Themes.Office2007.dll
+C:\Users\Andreas\Desktop\VR2\VR2_Klientrakendus\VR2_Klientrakendus\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\Andreas\Desktop\VR2\VR2_Klientrakendus\VR2_Klientrakendus\bin\Debug\Xceed.Wpf.Toolkit.Themes.Metro.dll
+C:\Users\Andreas\Desktop\VR2\VR2_Klientrakendus\VR2_Klientrakendus\bin\Debug\Xceed.Wpf.Toolkit.Themes.Office2007.dll
+C:\Users\Andreas\Desktop\VR2\VR2_Klientrakendus\VR2_Klientrakendus\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Andreas\Desktop\VR2\VR2_Klientrakendus\VR2_Klientrakendus\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Andreas\Desktop\VR2\VR2_Klientrakendus\VR2_Klientrakendus\obj\Debug\VR2_Klientrakendus.csprojResolveAssemblyReference.cache
+C:\Users\Andreas\Desktop\VR2\VR2_Klientrakendus\VR2_Klientrakendus\obj\Debug\AddContactWindow.g.cs
+C:\Users\Andreas\Desktop\VR2\VR2_Klientrakendus\VR2_Klientrakendus\obj\Debug\AddGroupWindow.g.cs
+C:\Users\Andreas\Desktop\VR2\VR2_Klientrakendus\VR2_Klientrakendus\obj\Debug\MainWindow.g.cs
+C:\Users\Andreas\Desktop\VR2\VR2_Klientrakendus\VR2_Klientrakendus\obj\Debug\LoginWindow.g.cs
+C:\Users\Andreas\Desktop\VR2\VR2_Klientrakendus\VR2_Klientrakendus\obj\Debug\SignUpWindow.g.cs
+C:\Users\Andreas\Desktop\VR2\VR2_Klientrakendus\VR2_Klientrakendus\obj\Debug\UserProfile.g.cs
+C:\Users\Andreas\Desktop\VR2\VR2_Klientrakendus\VR2_Klientrakendus\obj\Debug\App.g.cs
+C:\Users\Andreas\Desktop\VR2\VR2_Klientrakendus\VR2_Klientrakendus\obj\Debug\VR2_Klientrakendus_MarkupCompile.cache
+C:\Users\Andreas\Desktop\VR2\VR2_Klientrakendus\VR2_Klientrakendus\obj\Debug\VR2_Klientrakendus_MarkupCompile.lref
+C:\Users\Andreas\Desktop\VR2\VR2_Klientrakendus\VR2_Klientrakendus\obj\Debug\AddContactWindow.baml
+C:\Users\Andreas\Desktop\VR2\VR2_Klientrakendus\VR2_Klientrakendus\obj\Debug\AddGroupWindow.baml
+C:\Users\Andreas\Desktop\VR2\VR2_Klientrakendus\VR2_Klientrakendus\obj\Debug\MainWindow.baml
+C:\Users\Andreas\Desktop\VR2\VR2_Klientrakendus\VR2_Klientrakendus\obj\Debug\LoginWindow.baml
+C:\Users\Andreas\Desktop\VR2\VR2_Klientrakendus\VR2_Klientrakendus\obj\Debug\SignUpWindow.baml
+C:\Users\Andreas\Desktop\VR2\VR2_Klientrakendus\VR2_Klientrakendus\obj\Debug\UserProfile.baml
+C:\Users\Andreas\Desktop\VR2\VR2_Klientrakendus\VR2_Klientrakendus\obj\Debug\VR2_Klientrakendus.g.resources
+C:\Users\Andreas\Desktop\VR2\VR2_Klientrakendus\VR2_Klientrakendus\obj\Debug\VR2_Klientrakendus.Properties.Resources.resources
+C:\Users\Andreas\Desktop\VR2\VR2_Klientrakendus\VR2_Klientrakendus\obj\Debug\VR2_Klientrakendus.csproj.GenerateResource.Cache
