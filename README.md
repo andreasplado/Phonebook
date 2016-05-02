@@ -39,3 +39,6 @@ Microsoft.AspNet.WebApi parses client-side JSON data.
 A screenshot of an application:
 
 ![alt tag](http://enos.itcollege.ee/~aplado/VR2/konotraat_screenshot.png)
+
+The port number of your application port or address might be different! To run client-side application you must edit App.config endpoint URL-s.
+
