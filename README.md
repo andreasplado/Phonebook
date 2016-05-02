@@ -20,13 +20,12 @@ An example of returned json using GET method:
 [
   {
     "$id": "1",
-    "userId": 2,
-    "userName": "aplado",
-    "email": "aplado@itcollege.ee",
-    "name": "Andreas",
-    "lastName": "Plado",
-    "age": 15,
-    "added": null,
+    "contactId": 8,
+    "contactName": "Tester",
+    "contactLastName": "Ester",
+    "contactValue": "514231456",
+    "contactTypeId": 0,
+    "added": "2016-04-30T14:18:50.347",
     "deleted": null,
     "updated": null
   }
@@ -40,4 +39,3 @@ Microsoft.AspNet.WebApi parses client-side JSON data.
 A screenshot of an application:
 
 ![alt tag](http://enos.itcollege.ee/~aplado/VR2/konotraat_screenshot.png)
-
