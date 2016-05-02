@@ -81,7 +81,7 @@ namespace WebApi.Controllers
 
         // PUT: api/Contacts/5
         [ResponseType(typeof(void))]
-        public IHttpActionResult PutContact(Contact contact, int id)
+        public IHttpActionResult PutContact([FromBody]Contact contact, [FromUri]int id)
         {
             if (!ModelState.IsValid)
             {
