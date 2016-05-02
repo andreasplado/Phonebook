@@ -14,7 +14,7 @@ Used technologies:
 ## Server-side app
 Services return JSON data.
 
-An example of returned json using GET method:
+An example of returned JSON using GET method on URL http://localhost:21855/api/Contacts:
 
 ```json
 [
@@ -40,5 +40,5 @@ A screenshot of an application:
 
 ![alt tag](http://enos.itcollege.ee/~aplado/VR2/konotraat_screenshot.png)
 
-The port number of your application port or address might be different! To run client-side application you must edit App.config endpoint URL-s.
+The port number of your application port or address might be different! To show data in client-side application you must edit App.config endpoint URL-s.
 
