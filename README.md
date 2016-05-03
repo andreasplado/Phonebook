@@ -47,7 +47,7 @@ The port number of your application port or address might be different! To show 
 
 * Find host space in cloud with HTTPS support.
 * Login with authentication system.
-* Some minor changes, in desktop application.
+* Some minor changes, in desktop application (eg. search by string).
 
 #### MUST BE:
 * Can make phone calls to cellphones.
