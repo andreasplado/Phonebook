@@ -45,10 +45,10 @@ The port number of your application port or address might be different! To show 
 
 ## TODO: 
 
-Find host space in cloud with HTTPS support.
-Login with authentication system.
-Some minor changes, in desktop application.
+* Find host space in cloud with HTTPS support.
+* Login with authentication system.
+* Some minor changes, in desktop application.
 
-MUST BE:
-Can make phone calls to cellphones.
+#MUST BE:
+* Can make phone calls to cellphones.
 
