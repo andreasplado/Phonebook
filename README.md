@@ -42,3 +42,13 @@ A screenshot of an application:
 
 The port number of your application port or address might be different! To show data in client-side application you must edit App.config endpoint URL-s.
 
+
+## TODO: 
+
+Find host space in cloud with HTTPS support.
+Login with authentication system.
+Some minor changes, in desktop application.
+
+MUST BE:
+Can make phone calls to cellphones.
+
