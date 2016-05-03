@@ -40,3 +40,17 @@ C:\Users\Andreas\Desktop\VR2\VR2_Serverrakendus\BLL\bin\Debug\EntityFramework.Sq
 C:\Users\Andreas\Desktop\VR2\VR2_Serverrakendus\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
 C:\Users\Andreas\Desktop\VR2\VR2_Serverrakendus\BLL\obj\Debug\BLL.dll
 C:\Users\Andreas\Desktop\VR2\VR2_Serverrakendus\BLL\obj\Debug\BLL.pdb
+C:\Users\Andreas\Desktop\VR2\restWebApp\VR2_Serverrakendus\BLL\bin\Debug\BLL.dll.config
+C:\Users\Andreas\Desktop\VR2\restWebApp\VR2_Serverrakendus\BLL\bin\Debug\BLL.dll
+C:\Users\Andreas\Desktop\VR2\restWebApp\VR2_Serverrakendus\BLL\bin\Debug\BLL.pdb
+C:\Users\Andreas\Desktop\VR2\restWebApp\VR2_Serverrakendus\BLL\bin\Debug\DAL.dll
+C:\Users\Andreas\Desktop\VR2\restWebApp\VR2_Serverrakendus\BLL\bin\Debug\Domain.dll
+C:\Users\Andreas\Desktop\VR2\restWebApp\VR2_Serverrakendus\BLL\bin\Debug\EntityFramework.dll
+C:\Users\Andreas\Desktop\VR2\restWebApp\VR2_Serverrakendus\BLL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Andreas\Desktop\VR2\restWebApp\VR2_Serverrakendus\BLL\bin\Debug\DAL.pdb
+C:\Users\Andreas\Desktop\VR2\restWebApp\VR2_Serverrakendus\BLL\bin\Debug\Domain.pdb
+C:\Users\Andreas\Desktop\VR2\restWebApp\VR2_Serverrakendus\BLL\bin\Debug\EntityFramework.xml
+C:\Users\Andreas\Desktop\VR2\restWebApp\VR2_Serverrakendus\BLL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Andreas\Desktop\VR2\restWebApp\VR2_Serverrakendus\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\Andreas\Desktop\VR2\restWebApp\VR2_Serverrakendus\BLL\obj\Debug\BLL.dll
+C:\Users\Andreas\Desktop\VR2\restWebApp\VR2_Serverrakendus\BLL\obj\Debug\BLL.pdb

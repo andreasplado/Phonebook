@@ -53,7 +53,7 @@ namespace WebApi.Controllers
 
         // PUT: api/Logs/5
         [ResponseType(typeof(void))]
-        public IHttpActionResult PutLog(int id, Log log)
+        public IHttpActionResult PutLog([FromBody]Log log, [FromUri]int id)
         {
             if (!ModelState.IsValid)
             {

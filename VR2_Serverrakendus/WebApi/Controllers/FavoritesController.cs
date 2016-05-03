@@ -53,7 +53,7 @@ namespace WebApi.Controllers
 
         // PUT: api/Favorites/5
         [ResponseType(typeof(void))]
-        public IHttpActionResult PutFavorite(int id, Favorite favorite)
+        public IHttpActionResult PutFavorite([FromBody]Favorite favorite, [FromUri]int id)
         {
             if (!ModelState.IsValid)
             {

@@ -34,3 +34,15 @@ C:\Users\Andreas\Desktop\VR2\VR2_Serverrakendus\DAL\bin\Debug\EntityFramework.Sq
 C:\Users\Andreas\Desktop\VR2\VR2_Serverrakendus\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
 C:\Users\Andreas\Desktop\VR2\VR2_Serverrakendus\DAL\obj\Debug\DAL.dll
 C:\Users\Andreas\Desktop\VR2\VR2_Serverrakendus\DAL\obj\Debug\DAL.pdb
+C:\Users\Andreas\Desktop\VR2\restWebApp\VR2_Serverrakendus\DAL\bin\Debug\DAL.dll.config
+C:\Users\Andreas\Desktop\VR2\restWebApp\VR2_Serverrakendus\DAL\bin\Debug\DAL.dll
+C:\Users\Andreas\Desktop\VR2\restWebApp\VR2_Serverrakendus\DAL\bin\Debug\DAL.pdb
+C:\Users\Andreas\Desktop\VR2\restWebApp\VR2_Serverrakendus\DAL\bin\Debug\Domain.dll
+C:\Users\Andreas\Desktop\VR2\restWebApp\VR2_Serverrakendus\DAL\bin\Debug\EntityFramework.dll
+C:\Users\Andreas\Desktop\VR2\restWebApp\VR2_Serverrakendus\DAL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Andreas\Desktop\VR2\restWebApp\VR2_Serverrakendus\DAL\bin\Debug\Domain.pdb
+C:\Users\Andreas\Desktop\VR2\restWebApp\VR2_Serverrakendus\DAL\bin\Debug\EntityFramework.xml
+C:\Users\Andreas\Desktop\VR2\restWebApp\VR2_Serverrakendus\DAL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Andreas\Desktop\VR2\restWebApp\VR2_Serverrakendus\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\Andreas\Desktop\VR2\restWebApp\VR2_Serverrakendus\DAL\obj\Debug\DAL.dll
+C:\Users\Andreas\Desktop\VR2\restWebApp\VR2_Serverrakendus\DAL\obj\Debug\DAL.pdb

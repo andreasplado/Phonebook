@@ -52,7 +52,7 @@ namespace WebApi.Controllers
 
         // PUT: api/UserInRoles/5
         [ResponseType(typeof(void))]
-        public IHttpActionResult PutUserInRole(int id, UserInRole userInRole)
+        public IHttpActionResult PutUserInRole([FromBody]UserInRole userInRole, [FromUri]int id)
         {
             if (ModelState.IsValid)
             {

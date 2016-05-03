@@ -48,7 +48,7 @@ namespace VR2_Klientrakendus
             tb.Text = string.Empty;
             tb.GotFocus -= TxtSearch_GotFocus;
         }
-
+        #region Add buttons
         private void BtnAddGroup_Click(object sender, RoutedEventArgs e)
         {
             if (TxtGroupDescription.Text.Equals(""))
@@ -148,6 +148,32 @@ namespace VR2_Klientrakendus
                 ErrorContactLastnameMissing.Visibility = Visibility.Hidden;
             }
         }
+        private void BtnAddToFavorites_Click(object sender, RoutedEventArgs e)
+        {
+            Favorite favorite = new Favorite()
+            {
+                UserId = _vm.Users[LbUsers.SelectedIndex].UserId,
+                Added = DateTime.Now
+            };
+            Log log = new Log()
+            {
+                Description = "User " + _vm.Users[LbUsers.SelectedIndex].UserName + " was added to your favorites",
+                Added = DateTime.Now,
+                UserId = 2
+
+            };
+            this._vm.AddFavorite(favorite);
+            this._vm.AddLog(log);
+            MessageBox.Show("Favorite added successfully");
+            BtnAddToFavorites.IsEnabled = false;
+        }
+        #endregion
+
+
+
+
+
+
 
         private void LbContacts_SelectionChanged(object sender, SelectionChangedEventArgs e)
         {
@@ -158,6 +184,16 @@ namespace VR2_Klientrakendus
                 TxtContactName.Text = _vm.Contacts[LbContacts.SelectedIndex].ContactName;
                 TxtContactLastname.Text = _vm.Contacts[LbContacts.SelectedIndex].ContactLastName;
                 TxtContactValue.Text = _vm.Contacts[LbContacts.SelectedIndex].ContactValue;
+                if (_vm.Contacts[LbContacts.SelectedIndex].Updated != null)
+                {
+                    TxtBoxContactUpdated.Text = "Contact has been updated in: " +
+                                                _vm.Contacts[LbContacts.SelectedIndex].Updated.ToString();
+                }
+                else
+                {
+                    TxtBoxContactUpdated.Text = "";
+                }
+                
             }
             BtnUpdateContact.IsEnabled = true;
             BtnDeleteContact.IsEnabled = true;
@@ -201,25 +237,7 @@ namespace VR2_Klientrakendus
             //this._vm.Update(contactType, _vm.ContactTypes[LbContactTypes.SelectedIndex].ContactId);
         }
 
-        private void BtnAddToFavorites_Click(object sender, RoutedEventArgs e)
-        {
-            Favorite favorite = new Favorite()
-            {
-                UserId = _vm.Users[LbUsers.SelectedIndex].UserId,
-                Added = DateTime.Now
-            };
-            Log log = new Log()
-            {
-                Description = "User " + _vm.Users[LbUsers.SelectedIndex].UserName + " was added to your favorites",
-                Added = DateTime.Now,
-                UserId = 2
 
-            };
-            this._vm.AddFavorite(favorite);
-            this._vm.AddLog(log);
-            MessageBox.Show("Favorite added successfully");
-            BtnAddToFavorites.IsEnabled = false;
-        }
 
         private void LbUsers_SelectionChanged(object sender, SelectionChangedEventArgs e)
         {
@@ -233,6 +251,14 @@ namespace VR2_Klientrakendus
 
         private void BtnUpdateGroup_Click(object sender, RoutedEventArgs e)
         {
+            Group group = new Group()
+            {
+                Updated = DateTime.Now,
+                Description = TxtGroupDescription.Text,
+                GroupId = _vm.Groups[LbGroups.SelectedIndex].GroupId,
+                GroupName = TxtGroupname.Text
+            };
+            _vm.UpdateGroup(group, _vm.Groups[LbGroups.SelectedIndex].GroupId, LbGroups.SelectedIndex);
         }
 
         private void BtnDeleteContactType_Click(object sender, RoutedEventArgs e)
@@ -254,6 +280,15 @@ namespace VR2_Klientrakendus
             MessageBox.Show("Group successfully deleted");
         }
 
+
+
+        private void BtnDeleteLog_Click(object sender, RoutedEventArgs e)
+        {
+            int logId = _vm.Logs[LbLogs.SelectedIndex].LogId;
+            _vm.DeleteLog(logId);
+            MessageBox.Show("Logs deleted successfully");
+        }
+
         private void BtnUpdateContact_Click(object sender, RoutedEventArgs e)
         {
             Contact contact = new Contact()
@@ -262,18 +297,22 @@ namespace VR2_Klientrakendus
                 ContactLastName = TxtContactLastname.Text,
                 ContactName = TxtContactName.Text,
                 ContactValue = TxtContactValue.Text,
+                UserId = 2,
+                Added = _vm.Contacts[LbContacts.SelectedIndex].Added,
+                ContactId = _vm.Contacts[LbContacts.SelectedIndex].ContactId
+            };
+
+            Log log = new Log()
+            {
+                Added = DateTime.Now,
+                Description = "Contact " + TxtContactName.Text + " " + TxtContactLastname.Text + " was updated",
                 UserId = 2
+
             };
 
             _vm.UpdateContact(contact, _vm.Contacts[LbContacts.SelectedIndex].ContactId, LbContacts.SelectedIndex);
+            _vm.AddLog(log);
             MessageBox.Show("Contact successfully updated");
-        }
-
-        private void BtnDeleteLog_Click(object sender, RoutedEventArgs e)
-        {
-            int logId = _vm.Logs[LbLogs.SelectedIndex].LogId;
-            _vm.DeleteLog(logId);
-            MessageBox.Show("Logs deleted successfully");
         }
     }
 }

@@ -83,7 +83,7 @@ namespace WebApi.Controllers
 
         // PUT: api/Users/5
         [ResponseType(typeof(void))]
-        public IHttpActionResult PutUser(int id, User user)
+        public IHttpActionResult PutUser([FromBody]User user, [FromUri]int id)
         {
             if (ModelState.IsValid)
             {

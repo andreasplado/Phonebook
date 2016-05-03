@@ -41,6 +41,7 @@
                     <TextBlock Background="Red" Foreground="Azure" x:Name="ErrorContactLastnameMissing" Visibility="Hidden" HorizontalAlignment="Left" Margin="235,41,0,0" TextWrapping="Wrap" Text="Contact lastname missing" VerticalAlignment="Top" Width="138" Height="17"/>
                     <TextBlock Background="Red" Foreground="Azure" x:Name="ErrorContactTypeMissing" Visibility="Hidden" HorizontalAlignment="Left" Margin="235,71,0,0" TextWrapping="Wrap" Text="Contact Type missing" VerticalAlignment="Top"/>
                     <TextBlock Background="Red" Foreground="Azure" x:Name="ErrorContactValueMissing" Visibility="Hidden" HorizontalAlignment="Left" Margin="235,100,0,0" TextWrapping="Wrap" Text="Contact value missing" VerticalAlignment="Top" Width="117"/>
+                    <TextBlock x:Name="TxtBoxContactUpdated" HorizontalAlignment="Left" Margin="10,124,0,0" TextWrapping="Wrap" Text="." VerticalAlignment="Top" Width="220"/>
                 </Grid>
             </TabItem>
             <TabItem Header="Users" Name="TabUsers">

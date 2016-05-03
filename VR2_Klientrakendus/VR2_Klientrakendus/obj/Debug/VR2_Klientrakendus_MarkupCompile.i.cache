@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\Andreas\Desktop\VR2\VR2_Klientrakendus\VR2_Klientrakendus\obj\Debug\
+C:\Users\Andreas\Desktop\VR2\restWebApp\VR2_Klientrakendus\VR2_Klientrakendus\obj\Debug\
 VR2_Klientrakendus
 none
 false
 DEBUG;TRACE
-C:\Users\Andreas\Desktop\VR2\VR2_Klientrakendus\VR2_Klientrakendus\App.xaml
+C:\Users\Andreas\Desktop\VR2\restWebApp\VR2_Klientrakendus\VR2_Klientrakendus\App.xaml
 6-345666827
 
 461501651312
-22-491898115
+22310653943
 AddContactWindow.xaml;AddGroupWindow.xaml;MainWindow.xaml;LoginWindow.xaml;SignUpWindow.xaml;UserProfile.xaml;
 
-False
+True
 

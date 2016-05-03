@@ -131,14 +131,17 @@ namespace VR2_Klientrakendus.ViewModels
         }
         #endregion
         #region Update things
-        //        public async void Update(ContactType newContactType, int contactTypeId)
-        //        {
-        //            this.ContactType = await this._contactTypeService.Update(newContactType, contactTypeId);
-        //        }
         public async void UpdateContact(Contact newContact, int contactId, int listboxPosition)
         {
             this.Contacts.RemoveAt(listboxPosition);
             Contacts.Add(await this._contactService.Update(newContact, contactId));
+        }
+
+        public async void UpdateGroup(Group newGroup, int groupId, int listboxPosition)
+        {
+            this.Groups.RemoveAt(listboxPosition);
+            Groups.Add(await this._groupService.Update(newGroup, groupId));
+
         }
         #endregion
         #region Delete things

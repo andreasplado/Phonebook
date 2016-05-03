@@ -69,7 +69,7 @@ namespace WebApi.Controllers
 
         // PUT: api/Groups/5
         [ResponseType(typeof(void))]
-        public IHttpActionResult PutGroup(int id, Group group)
+        public IHttpActionResult PutGroup([FromBody]Group group, [FromUri]int id)
         {
             if (!ModelState.IsValid)
             {
