@@ -1,4 +1,4 @@
-# restWebApp
+# Phonebook
 A RESTful  Web service with ASP.NET Web API and client application
 
 
